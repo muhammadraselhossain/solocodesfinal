@@ -1,0 +1,14 @@
+header h1 .slogan {
+  writing-mode: vertical-lr;
+  right: -25px;
+  top: -75px;
+  height: 211px;
+}/*# sourceMappingURL=custome.css.map */
+
+
+.clippath{
+  clip-path: polygon(0 0, 100% 0%, 100% 85%, 69% 85%, 50% 100%, 33% 85%, 0 85%);
+}
+
+
+
